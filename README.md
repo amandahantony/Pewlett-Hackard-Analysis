@@ -7,5 +7,5 @@ In this analysis we are helping the manager at Pewlett-Hackard prepare for the "
 In the first part of the analysis we retrieved columns from the employees and titles table, and joined the two tables using INNER JOIN. The birth date column was filtered to only show the retiring employees, who were born between 1952 and 1955. The resulting table (shown below) includes the employee number, first and last name, title, from date and to date of each retiring employee. 
 
 
-[Retirement Titles](Data/retirement_titles.csv)
+[Retirement Titles](Images/retirement_titles.png)
 
